@@ -1,0 +1,12 @@
+{
+    "item":[
+        {"name":"이순신","age":33,"email":"jun96@naver.com"},
+        {"name":"김준","age":23,"email":"jun94@naver.com"},
+        {"name":"이석동","age":44,"email":"jun95@naver.com"},
+        {"name":"발봉","age":31,"email":"jun97@naver.com"},
+        {"name":"민태수","age":13,"email":"jun98@naver.com"},
+        {"name":"하의수","age":42,"email":"jun99@naver.com"},
+        {"name":"진태혁","age":22,"email":"jun90@naver.com"}
+    ]
+   
+}
